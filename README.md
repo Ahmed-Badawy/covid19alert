@@ -1,4 +1,4 @@
-# covid19alert
+# Covid 19 Alert
 A script tag to include in your website to show a Covid19 alert message.
 
 - Test Run: 
