@@ -22,5 +22,5 @@ https://ahmed-badawy.github.io/covid19alert/customizable/
     <div slot="title">#StayAtHome</div><br>
     <div slot="text2">Protect your community against COVID-19</div>
 </covid-alert>
-`<script src="https://ahmed-badawy.github.io/covid19alert/customizable/covid19alertcustomizable.js"></script>`
+<script src="https://ahmed-badawy.github.io/covid19alert/customizable/covid19alertcustomizable.js"></script>
 ```
